@@ -1,0 +1,16 @@
+.image {
+  text-align: center; 
+}
+
+.margin {
+  margin: auto;
+}
+
+.thumbnail {
+  width: 10rem;
+  height: 10rem;
+}
+
+/* .slick-slide img {
+  display: inline;
+} */
