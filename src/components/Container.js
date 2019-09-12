@@ -3,6 +3,7 @@ import Images from './ImageGallery';
 import { Container, Row, Col } from 'react-bootstrap';
 import Button from './button';
 import Header from './Header';
+import Amenities from './Amenities';
 
 class AppContainer extends React.Component {
 
@@ -24,6 +25,11 @@ class AppContainer extends React.Component {
             <Button onClick={this.goToAirBnB} name="Book on AirBnB" />
           </Col>
         </Row>   
+        <Row>
+          <Col>
+          <Amenities />
+          </Col>
+        </Row>
       </Container>
     )
   }
