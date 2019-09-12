@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59d2a580761ea3a89d48508a8112ce8b",
+    "revision": "7d6cc703969594735db7358a13050dab",
     "url": "/RedoLakehouse/index.html"
   },
   {
-    "revision": "43f7e27c278e5b86e20d",
-    "url": "/RedoLakehouse/static/css/2.11cccd8d.chunk.css"
+    "revision": "ab7fd8912207d6371347",
+    "url": "/RedoLakehouse/static/css/2.003d5f33.chunk.css"
   },
   {
-    "revision": "573cda809be3de692f35",
+    "revision": "6ec746f54c5f75cdc8cb",
     "url": "/RedoLakehouse/static/css/main.8a30d583.chunk.css"
   },
   {
-    "revision": "43f7e27c278e5b86e20d",
-    "url": "/RedoLakehouse/static/js/2.26e3a7a4.chunk.js"
+    "revision": "ab7fd8912207d6371347",
+    "url": "/RedoLakehouse/static/js/2.2e078a6d.chunk.js"
   },
   {
-    "revision": "573cda809be3de692f35",
-    "url": "/RedoLakehouse/static/js/main.653d8d36.chunk.js"
+    "revision": "6ec746f54c5f75cdc8cb",
+    "url": "/RedoLakehouse/static/js/main.d74d9b79.chunk.js"
   },
   {
     "revision": "0406a6160e977a51c373",

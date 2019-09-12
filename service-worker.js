@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RedoLakehouse/precache-manifest.a4dde584b552530d5936b48b2354ddcc.js"
+  "/RedoLakehouse/precache-manifest.15c53b96a4b676760457312d28dfb730.js"
 );
 
 self.addEventListener('message', (event) => {
