@@ -4,6 +4,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import Button from './button';
 import Header from './Header';
 import Amenities from './Amenities';
+import Activities from './Activities';
 
 class AppContainer extends React.Component {
 
@@ -28,6 +29,9 @@ class AppContainer extends React.Component {
         <Row>
           <Col>
           <Amenities />
+          </Col>
+          <Col>
+          <Activities />
           </Col>
         </Row>
       </Container>
